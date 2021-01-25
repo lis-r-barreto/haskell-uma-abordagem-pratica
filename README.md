@@ -1,4 +1,4 @@
-## Solving Functional Programming problems with Haskell λ
+## Haskell: Uma Abordagem Prática λ
 
 ### 01 - [Basic Operations and Simple Functions](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/01.hs)
 
