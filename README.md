@@ -1,11 +1,10 @@
-## Haskell: Uma Abordagem Prática λ
+# Haskell: Uma Abordagem Prática λ
 
-### 01 - [Basic Operations and Simple Functions](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/01.hs)
+## Exercícios Propostos
+### Capítulo 02 - [Matemática Funcional](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/01.hs)
 
-### 01 - [Types and Syntax in Functions](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/02.hs)
+### Capítulo 03 - [Uma Visão Funcional da Indução - Parte 1](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/02.hs)
 
-### 03 - [Introduction to Recursion](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/03.hs)
+### Capítulo 03 - [Uma Visão Funcional da Indução - Parte 2](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/03.hs)
 
-### 04 - [Recursion and Tail Recursion](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/04.hs)
-
-
+### Capítulo 03 - [Uma Visão Funcional da Indução - Parte 3](https://github.com/lis-r-barreto/functional-programming-with-haskell/blob/main/04.hs)
